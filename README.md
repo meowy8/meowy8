@@ -2,7 +2,7 @@
 
 ## About Me
 - 🔭 I'm currently working on front end development, with some backend too
-- 🌱 I'm currently learning React with JavaScript
+- 🌱 I'm currently learning ExpressJS
 - 📫 How to reach me: mhoey8@hotmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Interests: Filmmaking, Writing, Photography, Walks in the forest
