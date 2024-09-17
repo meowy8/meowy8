@@ -1,8 +1,8 @@
 # Hi there, I'm Micheal 👋
 
 ## About Me
-- 🔭 I'm currently working on front end development, with some backend too
-- 🌱 I'm currently learning ExpressJS
+- 🔭 I'm currently working on full-stack development
+- 🌱 I'm currently learning Python and Django
 - 📫 How to reach me: mhoey8@hotmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Interests: Filmmaking, Writing, Photography, Walks in the forest
